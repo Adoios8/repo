@@ -1,7 +1,7 @@
 {
-    "name": "BarhamIOS ViP",
-    "identifier": "com.BarhamIOS.eisgn",
-    "sourceURL": "https://cydiainfo.tk/source.json",
+    "name": "KakaAdo",
+    "identifier": "com.kakaado.eisgn",
+    "sourceURL": "https://www.kakaado.com/repo/app.json",
     "apps": [
         {
             "name": "Video star Pro",
