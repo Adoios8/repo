@@ -1,7 +1,7 @@
 {
     "name": "KakaAdo",
     "identifier": "com.kakaado.eisgn",
-    "sourceURL": "https://kakaado.com/repo/app.json",
+    "sourceURL": "https://kakaado.tech/repo/app.json",
     "apps": [
         {
             "name": "Video star Pro",
